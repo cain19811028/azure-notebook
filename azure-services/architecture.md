@@ -1,10 +1,4 @@
-# Azure Services![](/assets/azure-services.jpg)![](/assets/azure-services.jpg)
+# Azure Services
 
-# ![](/assets/azure-services.jpg)
-
-# ![](/assets/azure-services.jpg)
-
-# ![](/assets/azure-services.jpg)
-
-![](/assets/azure.jpg)
+![](/assets/azure-services.jpg)![](/assets/azure.jpg)
 
