@@ -1,4 +1,4 @@
-# Azure Services
+# Azure IoT Architecture
 
-![](/assets/azure-services.jpg)![](/assets/azure.jpg)
+![](/assets/microsoft-iot.jpg)
 
