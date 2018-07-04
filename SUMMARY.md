@@ -2,5 +2,6 @@
 
 * [學習筆記](README.md)
 * [Azure Services](azure-services.md)
-  * [Architecture](azure-services/architecture.md)
+  * [Azure IoT Architecture](azure-services/architecture.md)
+  * [Pricing](azure-services/pricing.md)
 
