@@ -17,7 +17,7 @@ The Azure Container Service Engine（acs-engine）generates ARM（Azure Resource
 GitHub：[https://github.com/Azure/pcs-remote-monitoring-webui](https://github.com/Azure/pcs-remote-monitoring-webui)
 
 * dotNET：[https://github.com/Azure/azure-iot-pcs-remote-monitoring-dotnet](https://github.com/Azure/azure-iot-pcs-remote-monitoring-dotnet)
-* Java：[https://github.com/Azure/azure-iot-pcs-remote-monitoring-java](https://github.com/Azure/azure-iot-pcs-remote-monitoring-java)
+* Java：[https://github.com/Azure/azure-iot-pcs-remote-monitoring-java](https://github.com/Azure/azure-iot-pcs-remote-monitoring-java)![](/assets/Azure PCS Architecture.png)
 
 
 
