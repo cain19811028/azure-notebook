@@ -12,7 +12,7 @@ The Azure Container Service Engine（acs-engine）generates ARM（Azure Resource
 
 ---
 
-# Microsoft Azure IoT SDKs
+# Azure IoT SDKs
 
 GitHub：[https://github.com/Azure/azure-iot-sdks](https://github.com/Azure/azure-iot-sdks)
 
