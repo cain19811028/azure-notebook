@@ -28,6 +28,14 @@ Azure IoT Developer Center：[https://azure.microsoft.com/zh-tw/develop/iot/](ht
 
 ---
 
+# Azure CLI
+
+GitHub：[https://github.com/Azure/azure-cli](https://github.com/Azure/azure-cli)
+
+Azure Command Line
+
+---
+
 # Azure Remote Monitoring WebUI
 
 GitHub：[https://github.com/Azure/pcs-remote-monitoring-webui](https://github.com/Azure/pcs-remote-monitoring-webui)
