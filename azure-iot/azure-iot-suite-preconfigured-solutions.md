@@ -14,6 +14,7 @@
 * [azure-iot-sdk](https://github.com/Azure/azure-iot-sdk-python)
 * [device-simulation](https://github.com/Azure/device-simulation-dotnet)
 * [storage-adapter](https://github.com/Azure/pcs-storage-adapter-dotnet.git)
+* [iothub-explorer](https://github.com/azure/iothub-explorer)
 
 
 
