@@ -36,6 +36,14 @@ Azure Command Line
 
 ---
 
+## Azure IoT Hub Explorer
+
+GitHub：[https://github.com/Azure/iothub-explorer](https://github.com/Azure/iothub-explorer)
+
+IoT Hub Explorer is a tool that allows you to explore and test Azure IoT Hub features
+
+---
+
 # Azure Remote Monitoring WebUI
 
 GitHub：[https://github.com/Azure/pcs-remote-monitoring-webui](https://github.com/Azure/pcs-remote-monitoring-webui)
